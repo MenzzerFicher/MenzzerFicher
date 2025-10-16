@@ -12,28 +12,28 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
         />
     </a>
      <a href="https://github.com/MenzzerFicher?tab=followers">
-        <img S
+        <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/MenzzerFicher?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/MenzzerFicher?tab=repositories&sort=stargazers">
-        <img S
+        <img 
             alt="Contact Number" 
             src="https://custom-icon-badges.demolab.com/badge/+351--962--464--436-orange?style=for-the-badge&logo=phone&logoColor=white
             "
         />
         </a>
         <a href="https://github.com/MenzzerFicher?tab=repositories&sort=stargazers">
-        <img S
+        <img 
             alt="E-mail Adress" 
             src="https://custom-icon-badges.demolab.com/badge/-menzzerficher@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
             "
         />
         </a>
         <a href="https://github.com/MenzzerFicher?tab=repositories&sort=stargazers">
-        <img S
+        <img 
             alt="Location" 
             src="https://custom-icon-badges.demolab.com/badge/Braga-PT-purple?style=for-the-badge&logo=location&logoColor=white
             "
