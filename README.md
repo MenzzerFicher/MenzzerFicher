@@ -18,22 +18,25 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
             src="https://custom-icon-badges.demolab.com/github/followers/MenzzerFicher?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-        <img S
-            alt="Contact Number" 
-            src="https://custom-icon-badges.demolab.com/badge/+351--962--464--436-orange?style=for-the-badge&logo=phone&logoColor=white
-            "
+    <a href="#">
+        <img
+    alt="Contact Number"
+    title="Telefone para contato"
+    src="https://custom-icon-badges.demolab.com/badge/+351--000--000--000-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
         />
-        <img S
-            alt="E-mail Adress" 
-            src="https://custom-icon-badges.demolab.com/badge/-menzzerficher@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
-            "
+        <a href="mailto:email@example.com">
+  <img
+    alt="E-mail Address"
+    title="Enviar e-mail"
+    src="https://custom-icon-badges.demolab.com/badge/email-example%40mail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&label=E-mail"
         />
-        <img S
-            alt="Location" 
-            src="https://custom-icon-badges.demolab.com/badge/Braga-PT-purple?style=for-the-badge&logo=location&logoColor=white
-            "
-        />
-</p>
+   <a href="#">
+  <img
+    alt="Location"
+    title="Localização: Braga, Portugal"
+    src="https://custom-icon-badges.demolab.com/badge/Location-Braga--PT-purple?style=for-the-badge&logo=location&logoColor=white"
+  />
+</a>
 
 ---
 
