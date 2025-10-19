@@ -9,6 +9,7 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
             alt="Stars" 
             title="Total stars of GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/MenzzerFicher?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            height="24"
         />
     </a>
      <a href="https://github.com/MenzzerFicher?tab=followers">
@@ -16,25 +17,29 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/MenzzerFicher?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            height="24"
         />
     </a>
     <a href="#">
         <img
-    alt="Contact Number"
-    title="Telefone para contato"
-    src="https://custom-icon-badges.demolab.com/badge/+351--000--000--000-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
+         alt="Contact Number"
+         title="Telefone para contato"
+         src="https://custom-icon-badges.demolab.com/badge/+351--000--000--000-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
+         height="24"
         />
         <a href="mailto:menzzerficher@gmail.com">
   <img
     alt="E-mail Address"
     title="Enviar e-mail para menzzerficher@gmail.com"
     src="https://custom-icon-badges.demolab.com/badge/menzzerficher%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&label=E-MAIL&labelColor=4b5563"
+   height="24"
   />
    <a href="#">
   <img
     alt="Location"
     title="Localização: Braga, Portugal"
     src="https://custom-icon-badges.demolab.com/badge/BRAGA%20PT-purple?style=for-the-badge&logo=location&logoColor=white&label=LOCATION&labelColor=4b5563"
+    height="24"
   />
 </a>
 
