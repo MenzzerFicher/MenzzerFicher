@@ -21,7 +21,7 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
     <a href="https://github.com/MenzzerFicher?tab=repositories&sort=stargazers">
         <img 
             alt="Contact Number" 
-            src="[https://custom-icon-badges.demolab.com/badge/+351--962--464--436-orange?style=for-the-badge&logo=phone&logoColor=white](https://camo.githubusercontent.com/eadc21cda09422795fa0cab6b482d8a3817e73d62fe42cd09604d9ec904e26c0/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d3132332d2d3435362d2d373839302d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d70686f6e65266c6f676f436f6c6f723d7768697465)
+            src="https://custom-icon-badges.demolab.com/badge/+351--962--464--436-orange?style=for-the-badge&logo=phone&logoColor=white(https://camo.githubusercontent.com/eadc21cda09422795fa0cab6b482d8a3817e73d62fe42cd09604d9ec904e26c0/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d3132332d2d3435362d2d373839302d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d70686f6e65266c6f676f436f6c6f723d7768697465)
             "
         />
         </a>
