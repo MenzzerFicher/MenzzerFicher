@@ -34,7 +34,7 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
   <img
     alt="Location"
     title="Localização: Braga, Portugal"
-    src="https://custom-icon-badges.demolab.com/badge/Location-Braga--PT-purple?style=for-the-badge&logo=location&logoColor=white"
+    src="https://custom-icon-badges.demolab.com/badge/BRAGA%20PT-purple?style=for-the-badge&logo=location&logoColor=white&label=LOCATION&labelColor=4b5563"
   />
 </a>
 
