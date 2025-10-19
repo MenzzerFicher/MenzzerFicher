@@ -24,12 +24,12 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
     title="Telefone para contato"
     src="https://custom-icon-badges.demolab.com/badge/+351--000--000--000-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
         />
-        <a href="mailto:email@example.com">
+        <a href="mailto:menzzerficher@gmail.com">
   <img
     alt="E-mail Address"
-    title="Enviar e-mail"
-    src="https://custom-icon-badges.demolab.com/badge/email-example%40mail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&label=E-mail"
-        />
+    title="Enviar e-mail para menzzerficher@gmail.com"
+    src="https://custom-icon-badges.demolab.com/badge/menzzerficher%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&label=E-MAIL&labelColor=4b5563"
+  />
    <a href="#">
   <img
     alt="Location"
