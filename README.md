@@ -12,10 +12,10 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
         />
     </a>
      <a href="https://github.com/MenzzerFicher?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MenzzerFicher?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        <img
+    alt="Contact Number"
+    title="Telefone para contato"
+    src="https://custom-icon-badges.demolab.com/badge/+351--000--000--000-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
         />
     </a>
     <a href="https://github.com/MenzzerFicher?tab=repositories&sort=stargazers">
