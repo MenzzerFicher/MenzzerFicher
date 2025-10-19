@@ -24,7 +24,6 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
             src=<img
             src="https://custom-icon-badges.demolab.com/badge/+351--962--464--436-orange?style=for-the-badge&logo=phone&logoColor=white"
        />
-
         />
         </a>
         <a href="https://github.com/MenzzerFicher?tab=repositories&sort=stargazers">
