@@ -24,7 +24,7 @@ My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently bas
         <img
          alt="Contact Number"
          title="Telefone para contato"
-         src="https://custom-icon-badges.demolab.com/badge/+351--000--000--000-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
+         src="https://custom-icon-badges.demolab.com/badge/+351--962--464--436-orange?style=for-the-badge&logo=phone&logoColor=white&label=Contato"
          height="24"
         />
         <a href="mailto:menzzerficher@gmail.com">
