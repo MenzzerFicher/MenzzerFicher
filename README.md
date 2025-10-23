@@ -1,6 +1,6 @@
 # 👨‍💻 Menzzer Ficher
 
-**`Engenheiro de QA`**
+**`QA Tester`**
 
 My name is Menzzer Ficher, originally from São Paulo, Brazil, and currently based in Portugal. I have completed a specialized course in Quality Assurance and have a strong passion for technology and software testing. I am committed to continuous learning and professional growth, consistently enhancing my technical skills and expanding my portfolio. I am eager to contribute to innovative teams where quality and precision are top priorities.
 
